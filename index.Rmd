@@ -1,6 +1,6 @@
 ---
 title: "INT214: Workshop"
-author: "by: _____________"
+author: "by: Denphum Nakglam | std:63130500039"
 output: html_document
 ---
 
